@@ -32,3 +32,4 @@ Criando service de especificação e separando em módulos
 
 Corrigindo as importações
 
+Criando repositório de especificação
