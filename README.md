@@ -35,3 +35,6 @@ Corrigindo as importações
 Criando repositório de especificação
 
 Criando os Use Case de Categoria
+
+Refatorando a listagem de categoria
+
