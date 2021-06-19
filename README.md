@@ -43,3 +43,5 @@ Conhecendo Singleton Pattern
 Separando os repositórios
 
 Criando use case de especificação
+
+Refatorando as rotas
