@@ -41,3 +41,5 @@ Refatorando a listagem de categoria
 Conhecendo Singleton Pattern
 
 Separando os repositórios
+
+Criando use case de especificação
