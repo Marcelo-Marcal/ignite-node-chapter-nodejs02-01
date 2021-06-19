@@ -38,3 +38,4 @@ Criando os Use Case de Categoria
 
 Refatorando a listagem de categoria
 
+Conhecendo Singleton Pattern
