@@ -45,8 +45,3 @@ Separando os repositórios
 Criando use case de especificação
 
 Refatorando as rotas
-
-Conhecendo o multer
-
-Criando upload de arquivos
-
