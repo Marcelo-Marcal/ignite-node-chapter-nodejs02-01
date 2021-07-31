@@ -53,3 +53,7 @@ Criando upload de arquivos
 Criando o use case para importar categorias
 
 Conhecendo o conceito de stream
+
+Lendo os dados do upload
+
+Inserindo os dados do upload no repositório
