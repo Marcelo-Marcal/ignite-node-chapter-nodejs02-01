@@ -50,3 +50,6 @@ Conhecendo o multer
 
 Criando upload de arquivos
 
+Criando o use case para importar categorias
+
+Conhecendo o conceito de stream
