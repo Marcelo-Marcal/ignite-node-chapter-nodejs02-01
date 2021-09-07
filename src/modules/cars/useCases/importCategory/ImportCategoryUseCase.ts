@@ -28,6 +28,8 @@ class ImportCategoryUseCase {
         });
       })
         .on('end', () => {
+          //Remoção de um arquivo que não precisa mais
+          fs.promises.unlink(file.path);
           resolve(categories);
         })
         .on('error', (err) => {
