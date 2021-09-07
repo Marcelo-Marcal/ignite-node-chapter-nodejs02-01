@@ -62,4 +62,9 @@ Inserindo os dados do upload no repositório
 
 Conhecendo o swagger
 
+Configurando o swagger
+  criação do arquivo swagger.json
+
+Criando a documentação de criação de categoria
+
 
