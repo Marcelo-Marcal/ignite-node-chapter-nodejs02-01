@@ -67,4 +67,9 @@ Configurando o swagger
 
 Criando a documentação de criação de categoria
 
+Criando documentação da listagem de categorias
 
+Removendo os arquivos de upload
+
+Chapter-II
+Fim
